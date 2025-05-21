@@ -4,7 +4,6 @@
 🎓 I hold an MSc in Data Science and a Master's in Science Education — both with distinction.
 - 🌱 I’m learning: Advanced computer vision, transformer models
 - 💬 Ask me about: Machine Learning, Deep learning, API, Model deployment, Academic research, Deep learning, CNNs, computer vision, data pipelines, AI in education, Health, Agric and Transportation
-🛠️ Tech Stack
 ## 🛠️ Languages and Tools
 # 👋 Hi, I'm Shams (aka Auspicie)
 
