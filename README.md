@@ -1,4 +1,4 @@
-Welcome to my GitHub! Iam a passionate Data Scientist and AI researcher focused on building intelligent systems to solve real-world problems. My work spans computer vision, deep learning, data analytics, and educational technology.
+Welcome to my GitHub! Iam a passionate Data Scientist and AI researcher focused on building intelligent systems to solve real-world problems. My work spans computer vision, deep learning, data analytics.
 
 ---
 
