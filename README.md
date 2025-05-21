@@ -9,8 +9,10 @@ Welcome to my GitHub! Iam a passionate Data Scientist and AI researcher focused 
 - 🧠 PhD in progress: Exploring AI-driven hybrid education models in higher education.
 - 💬 Ask me about: Deep learning, CNNs, computer vision, data pipelines, AI in education.
 - 🌱 Currently learning: Transformers, explainable AI, advanced deployment strategies.
-- 📫 Reach me: [shams.auspicie@example.com](mailto:shams.auspicie@example.com)
-
+- 📫 Reach me: 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samsudeen-bankole-b7b78554/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/auspicie)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:connectsamsudeen@gmail.com)
 ---
 
 ## 🛠️ Tech Stack
