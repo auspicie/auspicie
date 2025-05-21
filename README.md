@@ -6,7 +6,7 @@ Welcome to my GitHub! Iam a passionate Data Scientist and AI researcher focused 
 
 - 🔭 I’m currently working on: **SmartLeaf** — a multi-crop disease detection system using CNNs and Streamlit.
 - 🎓 I hold an MSc in Data Science and a Master's in Science Education — both with distinction.
-- 🧠 PhD in progress: Exploring AI-driven hybrid education models in higher education.
+- 🧠 PhD in progress: Exploring innovative AI-driven solution to complex problems in Healthcare, Education, Agriculture.
 - 💬 Ask me about: Deep learning, CNNs, computer vision, data pipelines, AI in education.
 - 🌱 Currently learning: Transformers, explainable AI, advanced deployment strategies.
 - 📫 Reach me: 
