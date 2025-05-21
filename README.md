@@ -1,11 +1,11 @@
-- ###👋 Hi, I am Samsudeen Bankole, a Nigerian. Iam a Data Scientist and AI researcher passionate about building intelligent systems that solve real-world problems. I specialize in computer vision, deep learning, and applied machine learning.
+##👋 Hi, I am Samsudeen Bankole, a Nigerian. Iam a Data Scientist and AI researcher passionate about building intelligent systems that solve real-world problems. I specialize in computer vision, deep learning, and applied machine learning.
   📌 About Me
  🔭 I’m currently working on: SmartLeaf - a multi-crop disease detection system using CNNs and pre-trained models
 🎓 I hold an MSc in Data Science and a Master's in Science Education — both with distinction.
 - 🌱 I’m learning: Advanced computer vision, transformer models
 - 💬 Ask me about: Machine Learning, Deep learning, API, Model deployment, Academic research, Deep learning, CNNs, computer vision, data pipelines, AI in education, Health, Agric and Transportation
 🛠️ Tech Stack
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 # 👋 Hi, I'm Shams (aka Auspicie)
 
 Welcome to my GitHub! I'm a passionate Data Scientist and AI researcher focused on building intelligent systems to solve real-world problems. My work spans computer vision, deep learning, data analytics, and educational technology.
