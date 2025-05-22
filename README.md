@@ -1,11 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Repo.+Glad+to+have+you!)](https://git.io/typing-svg)
-
-Welcome to my GitHub! I am a passionate Data Scientist and AI researcher focused on building intelligent systems to solve real-world problems. My work spans computer vision, deep learning, data analytics.
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&width=435&lines=Welcome+to+my+Repo.+Glad+to+have+you!)](https://git.io/typing-svg)
 
 ## 💡 About Me
-
+- I am a passionate Data Scientist and AI researcher focused on building innovativeintelligent systems to solve real-world problems. My work spans computer vision, deep learning, data analytics.
 - 🔭 I’m currently working on: **SmartLeaf** — a multi-crop disease detection system using CNNs and Streamlit.
 - 🎓 I hold an MSc in Data Science and a Master's in Science Education — both with distinction.
 - 🧠 PhD in progress: Exploring innovative AI-driven solution to complex problems in Healthcare, Education, Agriculture.
