@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Repo.+I+am+glad+you+are+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Repo.+Glad+to+have+you!)](https://git.io/typing-svg)
+
 Welcome to my GitHub! I am a passionate Data Scientist and AI researcher focused on building intelligent systems to solve real-world problems. My work spans computer vision, deep learning, data analytics.
 
 ---
