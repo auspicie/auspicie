@@ -51,7 +51,7 @@
 
 ---
 
-> ⚡ “AI won’t replace workforce, but individuals who use AI wil work efficiently those who don’t.”
+> ⚡ “AI won’t replace workforce, but individuals who use AI wil work efficiently than those who don’t.”
 
 <!---
 auspicie/auspicie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
