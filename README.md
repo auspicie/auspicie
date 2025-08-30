@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&width=435&lines=Advancing+AI+Driven+Solutions!)](https://git.io/typing-svg)
 
 ## 💡 About Me
-- I am a passionate Data Scientist and AI researcher focused on building innovative intelligent systems to solve real-world problems. My work spans computer vision, natural language processing, deep learning, data analytics.
-- 🔭 I’m currently working on: **SmartLeaf** — a multi-crop disease detection system using CNNs and Streamlit.
+- I am a passionate Data Scientist and AI researcher focused on building innovative intelligent systems to solve real-world problems. My work spans computer vision, natural language processing, deep learning, big data and its infrastructure, data analytics.
+- 🔭 I’m currently working on: **GlucoTrack**— a diabetes predictor model using CDC diabetes health indicator dataset.
 - 🎓 I hold an MSc in Data Science and a Master's in Science Education — both with distinction.
-- 🧠 PhD in progress: Exploring innovative AI-driven solution to complex problems in Healthcare, Education, Agriculture.
-- 💬 Ask me about: Machine learning, Deep learning, CNNs, computer vision, NLP, Transfer learning. API, data pipelines, AI.
-- 🌱 Currently learning: Transformers, explainable AI, advanced deployment strategies.
+- 🧠 PhD in progress: Exploring innovative AI-driven solution to complex problems in Healthcare, Education, Insurance, Transportation and Agriculture.
+- 💬 Ask me about: Machine learning, Deep learning, CNNs, Computer vision, NLP, Transfer learning. API, Data Analytics, Tracking ML Flow, Cloud Computing Data pipelines, AI.
+- 🌱 Currently learning: Transformers, Explainable AI with SHAP, LIME, ML Track Flow Advanced deployment strategies.
 
 ---
 
